@@ -2,3 +2,7 @@
 	path = eureka-server-repo
 	url = https://github.com/jaspreetjhass/eureka-server-repo.git
 	branch = master
+[submodule "config-server-repo"]
+	path = config-server-repo
+	url = https://github.com/jaspreetjhass/config-server-repo.git
+	branch = master
