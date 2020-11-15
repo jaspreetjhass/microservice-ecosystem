@@ -1,0 +1,4 @@
+[submodule "eureka-server-repo"]
+	path = eureka-server-repo
+	url = https://github.com/jaspreetjhass/eureka-server-repo.git
+	branch = master
