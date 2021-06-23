@@ -6,3 +6,6 @@
 	path = config-server-repo
 	url = https://github.com/jaspreetjhass/config-server-repo.git
 	branch = master
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/jaspreetjhass/api-gateway.git
